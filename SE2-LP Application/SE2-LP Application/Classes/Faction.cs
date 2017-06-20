@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SE2_LP_Application.Classes
 {
-    class Faction
+    public class Faction
     {
         public int Id { get; set; }
         public string Name { get; set; }

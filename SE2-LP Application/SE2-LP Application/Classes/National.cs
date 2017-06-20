@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SE2_LP_Application.Classes
 {
-    class National : Election
+    public class National : Election
     {
         public Coalition Coalition { get; set; }
 
